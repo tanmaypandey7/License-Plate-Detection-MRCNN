@@ -40,6 +40,7 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # Root directory of the project
 # ROOT_DIR = os.path.abspath(r"D:\PYTHON\Scripts\License-Plate-Detection")
+ROOT_DIR=os.path.abspath("../")
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
@@ -48,11 +49,11 @@ from mrcnn import model as modellib, utils
 
 
 # Path to trained weights file
-# COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco.h5")
+COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco.h5")
 
 # Directory to save logs and model checkpoints, if not provided
 # through the command line argument --logs
-# DEFAULT_LOGS_DIR = os.path.join(ROOT_DIR, "logs")
+DEFAULT_LOGS_DIR = os.path.join(ROOT_DIR, "logs")
 
 ############################################################
 #  Configurations
