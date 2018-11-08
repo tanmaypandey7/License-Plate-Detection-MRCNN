@@ -10,6 +10,3 @@ Requirements:
 python3 custom.py train --dataset=/path/to/datasetfolder --weights=coco
 
 #To check validation, use inspect_custom_model.ipynb
-
-## Test results
-
