@@ -12,8 +12,4 @@ python3 custom.py train --dataset=/path/to/datasetfolder --weights=coco
 #To check validation, use inspect_custom_model.ipynb
 
 ## Test results
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/true%20plate%202.jpeg "Original pic")
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/detected%20plate%202.png "Deteced plate")
 
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/true%20plate.JPG "Original pic")
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/detected%20plate.png "Deteced plate")
