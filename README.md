@@ -5,11 +5,11 @@ Requirements:
 2. [mask_rcnn_coco.h5](https://github.com/matterport/Mask_RCNN/releases)
 
 ## To run:
-#Train a new model starting from pre-trained COCO weights
-
+Train a new model starting from pre-trained COCO weights
+```python
 python3 custom.py train --dataset=/path/to/datasetfolder --weights=coco
-
-#To check validation, use inspect_custom_model.ipynb
+```
+Use inspect_custom_model.ipynb to check custom images
 
 ## Test results:
 ![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/true%20plate.JPG "Original plate")
