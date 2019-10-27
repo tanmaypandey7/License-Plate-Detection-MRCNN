@@ -6,7 +6,7 @@ Requirements:
 
 ## To run:
 Train a new model starting from pre-trained COCO weights
-```python
+```
 python3 custom.py train --dataset=/path/to/datasetfolder --weights=coco
 ```
 Use inspect_custom_model.ipynb to check custom images
