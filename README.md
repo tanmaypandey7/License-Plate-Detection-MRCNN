@@ -12,11 +12,11 @@ python3 custom.py train --dataset=/path/to/datasetfolder --weights=coco
 Use inspect_custom_model.ipynb to check custom images
 
 ## Test results:
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/true%20plate.JPG "Original plate")
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/detected%20plate.png "Detected plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/1_true_plate.JPG "Original plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/1_detected_plate.png "Detected plate")
 
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/true%20plate%202.jpeg "Original plate")
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/detected%20plate%202.png "Detected plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/2_true_plate.jpeg "Original plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/2_detected_plate.png "Detected plate")
 
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/true%20plate%203.jpeg "Original plate")
-![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/detected%20plate%203.png "Detected plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/3_true_plate.jpeg "Original plate")
+![alt text](https://github.com/tanmaypandey7/License-Plate-Detection/blob/master/test%20results/3_detected_plate.png "Detected plate")
